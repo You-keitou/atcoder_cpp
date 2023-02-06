@@ -3,4 +3,7 @@
 
 #!! ERROR: *.out is undefined. Use list command to see defined gitignore types !!#
 
+./*.out
+./*.exe
+
 # End of https://www.toptal.com/developers/gitignore/api/*.out
